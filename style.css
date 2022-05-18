@@ -1,5 +1,5 @@
 
-         @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
 
         * {
             margin: 0;
@@ -59,12 +59,14 @@
             font-size: 5em;
             font-weight: 100;
             line-height: 1em;
+            text-transform: capitalize;
         }
 
         .text h3 {
             font-size: 4em;
             font-weight: 100;
             line-height: 2em;
+            text-transform: capitalize;
         }
 
         .text p {
@@ -80,6 +82,7 @@
             background-color: white;
             padding: 10px 30px;
             text-decoration: none;
+              text-transform: capitalize;
             color: black;
         }
 
@@ -131,6 +134,7 @@
 
         .menu ul li a {
             text-decoration: none;
+             text-transform: capitalize;
             font-size: 1em;
             color: white;
             cursor: pointer;
