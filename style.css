@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+* {
+    background-color: aqua;
+    margin: 0;
+    padding: 0;
+    text-align: right;
+    font-family: Lobster, cursive;
+}
+
+.showcase {
+    position: absolute;
+
+}
